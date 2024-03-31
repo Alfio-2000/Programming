@@ -1,0 +1,4 @@
+In this branch you'll find C projects.
+In particolar, there are:
+1. "Some Projects": It contains the base of C
+2. "Exams University": It contains the exams by my University Teacher Marco Russo superpippo.ct.infn.it/~marco/didattica
