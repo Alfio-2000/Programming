@@ -1,2 +1,8 @@
 # Programming
-Some programming projects
+In this repository you'll find some projects about programming. 
+I studied C language during my university studies. I studied at University of Catania, Sicily.
+My C teacher was Marco Russo: https://www.dfa.unict.it/corsi/l-30/docenti/uid.MG9SQllRSzAwQSs1WjhpMTN0YkpQWnJLam1SM2RrQS92R3NybUlHZUpUVT0= 
+
+I studied Python's basics independently, through video courses: in particular, Edoardo Midali's video course on YouTube: 
+https://www.youtube.com/playlist?list=PLP5MAKLy8lP8egsjV8PFOcHGq3oRHAn8a
+
