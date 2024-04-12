@@ -1,9 +1,9 @@
-#Primo esercizio su Python: Scrivi il tuo nome.
-#Se si effettua una spiegazione molto lunga bisogna commentare ogni riga
-#come sto facendo in questo spiegazione
-#nella quale sto commentando ogni riga
+# First Python exercise: Write your name.
+# If a very long explanation is given, it is necessary to comment each line
+# as I am doing in this explanation
+# in which I am commenting each line
 
-x='mario' #Ho assegnato ad x una stringa
-print(x) #questa funzione serve per stampare a schermo.
+x = 'Hello world!'  # I assigned a string to x
+print(x)  # This function is used to print to the screen.
 
-#IN PYTHON NON È NECESSARIO IL ;
+# IN PYTHON THE ; IS NOT NECESSARY
