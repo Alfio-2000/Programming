@@ -1,10 +1,9 @@
-#Secondo esercizio in Python: inserisci da tastiera il tuo nome
+# Second exercise in Python: enter your name from the keyboard
 
-x=input("Inserisci il tuo nome:") #[1]
+x = input("Enter your name:")  # [1]
 print(x)
-print(type(x)) #in questo modo sto stampando il tipo di variabile che sto usando
+print(type(x))  # in this way I'm printing the type of variable I'm using
 
-
-# [1]: La funzione input ci permette di inserire qualcosa da tastiera: tuttavia, il compilatore pensa che
-#stiamo inserendo delle STRINGHE!! NON NUMERI. Quindi, dovremmo fare un casting.
-#Per capire meglio questo concetto vedi l'esercizio 3.
+# [1]: The input function allows us to enter something from the keyboard: however, the compiler thinks that
+# we are entering STRINGS!! NOT NUMBERS. So, we should do a casting.
+# To better understand this concept see exercise 3.
