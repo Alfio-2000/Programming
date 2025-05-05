@@ -28,7 +28,7 @@ factorial=number_factorial(number)
 print(f"{number}! is: {factorial} ")
 
 # (1): This function is useful for checking the right user's input. 
-# Infact, the logic is this: the function converts user's input in a int or float number. 
+# In fact, the logic is this: the function converts user's input in a int or float number. 
 # This function is useful to  replace the functions int(input()) or float(input()), because in those cases if the user enter
 # for example a float number the script will crash and this is very bad for programmer. 
  
